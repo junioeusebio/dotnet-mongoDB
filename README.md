@@ -2,6 +2,10 @@
 
 Exemplo de aplicação .net core com mongodb.
 
+"Construiremos um projeto de uma API em .NET Core integrada a um cluster MongoDB, que também criaremos em tempo real no service cloud Mongo Atlas. Vamos repassar brevemente os conceitos básicos de front-end, back-end, bases de dados, NoSQL e MongoDB para fixar o entendimento e sua aplicabilidade." (Rafael F Barros)
+
+Referências: https://github.com/gabrielfbarros/dotnet-mongo (Rafael F Barros)
+
 Para teste:
 
 https://localhost:5001/infectado
@@ -29,12 +33,6 @@ Links Uteis:
 
 -----------------------------------------------
 
-Referências:
 
-https://docs.mongodb.com/
 
-https://docs.mongodb.com/manual/
 
-https://docs.mongodb.com/ecosystem/drivers/csharp/
-
-https://docs.atlas.mongodb.com/
